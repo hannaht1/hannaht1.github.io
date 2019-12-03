@@ -2014,6 +2014,8 @@ input, select, textarea {
 		padding: 0.8em 2em 0.8em 2em;
 		cursor: pointer;
 		outline: 0;
+		margin-top: 25px;
+		margin-left: -16px;
 	}
 
 		input[type="button"]:hover,
