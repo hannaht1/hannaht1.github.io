@@ -2342,6 +2342,7 @@ input, select, textarea {
 			display: inline-block;
 			margin-right: 1em;
 			font-size: 1.75em;
+			font-weight: bold;
 		}
 
 		#promo .button {
